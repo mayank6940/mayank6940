@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="your-profile-picture-url" alt="Mayank Raj" width="200" height="200">
+  <img src="https://github.com/mayank6940/ATM_Machine_C/assets/44741414/9d14ec6c-08c4-4f2a-9a4e-c96f8c2f8509" alt="Mayank Raj" width="200" height="200">
 </p>
 
 <h1 align="center">👋 Hi, I'm Mayank Raj</h1>
@@ -38,7 +38,7 @@
 
 <div align="center">
   <a href="https://github.com/mayank6940/image-to-text">
-    <img src="project-1-image-url" alt="Project 1" width="300" height="200">
+    <img src="https://user-images.githubusercontent.com/44741414/169603803-ce67af29-eb3a-49e4-946e-3394bec78e44.png" alt="Project 1" width="300" height="200">
   </a>
 
 </div>
