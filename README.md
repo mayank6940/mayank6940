@@ -19,7 +19,7 @@
 
 Here are some of the projects I'm currently working on or have completed:
 
-- 🤖 [Image to Text]([link-to-project-1](https://github.com/mayank6940/image-to-text)): A brief description of what the project does.
+- 🤖 [Image to Text] (https://github.com/mayank6940/image-to-text): 
 
 
 Feel free to explore these projects and provide feedback or collaborate with me!
