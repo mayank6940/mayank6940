@@ -27,7 +27,7 @@ Feel free to explore these projects and provide feedback or collaborate with me!
 <h2 align="center">Contact Me</h2>
 
 <p align="center">
-  You can reach me via email at <a href="mayankraj287@gmail.com"></a>.
+  You can reach me via email at <a href="https://linktr.ee/x_vamp">mayankraj287@gmail.com</a>.
 </p>
 
 <p align="center">
