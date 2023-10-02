@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mayank Raj 👋</h1>
 
 <p align="center">
-  <img src="[your-profile-picture-url](https://github.com/mayank6940/ATM_Machine_C/assets/44741414/9d14ec6c-08c4-4f2a-9a4e-c96f8c2f8509)" alt="Mayank Raj" width="200" height="200">
+  <img src="https://github.com/mayank6940/ATM_Machine_C/assets/44741414/9d14ec6c-08c4-4f2a-9a4e-c96f8c2f8509" alt="Mayank Raj" width="200" height="200">
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ Feel free to explore these projects and provide feedback or collaborate with me!
 <h2 align="center">Contact Me</h2>
 
 <p align="center">
-  You can reach me via email at <a href="mayankraj287@gmail.com">your-email@example.com</a>.
+  You can reach me via email at <a href="mayankraj287@gmail.com"></a>.
 </p>
 
 <p align="center">
