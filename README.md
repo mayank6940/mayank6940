@@ -65,7 +65,7 @@
 
 <div align="center">
   <a href="https://holopin.io/@mayank6940">
-    <img src="https://holopin.me/mayank6940" alt="Project 1" width="300" height="200">
+    <img src="https://holopin.me/mayank6940" alt="Project 1">
   </a>
 
 </div>
