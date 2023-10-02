@@ -62,3 +62,8 @@
 <p align="center">
   Let's connect on [LinkedIn](https://linkedin.com/mayank8757)!
 </p>
+
+<p align="center">
+  [![An image of @mayank6940's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayank6940)](https://holopin.io/@mayank6940)
+</p>
+
