@@ -65,7 +65,7 @@
 
 <div align="center">
   <a href="https://holopin.io/@mayank6940">
-    <img src="[https://user-images.githubusercontent.com/44741414/169603803-ce67af29-eb3a-49e4-946e-3394bec78e44.png](https://holopin.me/mayank6940)" alt="Project 1" width="300" height="200">
+    <img src="https://holopin.me/mayank6940" alt="Project 1" width="300" height="200">
   </a>
 
 </div>
