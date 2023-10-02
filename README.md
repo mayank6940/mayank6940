@@ -63,7 +63,10 @@
   Let's connect on [LinkedIn](https://linkedin.com/mayank8757)!
 </p>
 
-<p align="center">
-  [![An image of @mayank6940's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayank6940)](https://holopin.io/@mayank6940)
-</p>
+<div align="center">
+  <a href="https://holopin.io/@mayank6940">
+    <img src="[https://user-images.githubusercontent.com/44741414/169603803-ce67af29-eb3a-49e4-946e-3394bec78e44.png](https://holopin.me/mayank6940)" alt="Project 1" width="300" height="200">
+  </a>
+
+</div>
 
