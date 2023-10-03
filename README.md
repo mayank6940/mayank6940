@@ -60,7 +60,7 @@
 
 <!-- Social Links -->
 <p align="center">
-  Let's connect on [LinkedIn](https://linkedin.com/mayank8757)!
+  Let's connect on [LinkedIn](https://www.linkedin.com/in/mayank8757/)!
 </p>
 
 <div align="center">
